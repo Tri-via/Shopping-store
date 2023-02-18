@@ -34,7 +34,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![Screenshot_20230218_113516](https://user-images.githubusercontent.com/65112018/219847830-1a6291a6-67ec-4324-a534-f2edff5d3725.png)
 
-![Screenshot_20230218_113534](https://user-images.githubusercontent.com/65112018/219847835-c28b6dfe-e84c-4cc2-a286-7d5931b0551b.png) ![Screenshot_20230218_113644](https://user-images.githubusercontent.com/65112018/219847844-720df619-e763-4db1-8b92-22313c971a82.png)
+![Screenshot_20230218_113534](https://user-images.githubusercontent.com/65112018/219847835-c28b6dfe-e84c-4cc2-a286-7d5931b0551b.png) 
+
+![Screenshot_20230218_113644](https://user-images.githubusercontent.com/65112018/219847844-720df619-e763-4db1-8b92-22313c971a82.png)
 
 ### Cart Page:
 
