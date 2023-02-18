@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Images: 
 
-# Home Page:
+### Home Page:
 
 ![Screenshot_20230218_113417](https://user-images.githubusercontent.com/65112018/219847824-ae8e419b-af65-4d65-8191-228023882fc7.png)
 
@@ -38,11 +38,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![Screenshot_20230218_113644](https://user-images.githubusercontent.com/65112018/219847844-720df619-e763-4db1-8b92-22313c971a82.png)
 
-# Cart Page:
+### Cart Page:
 
 ![Screenshot_20230218_113737](https://user-images.githubusercontent.com/65112018/219847881-cc3b885e-58ec-42cd-8f07-adcb0f2a65d0.png)
 
-# Checkout Page:
+### Checkout Page:
 
 ![Screenshot_20230218_113942](https://user-images.githubusercontent.com/65112018/219847923-b897eb3f-cd2c-4b2c-af08-13542329d787.png)
 
@@ -51,11 +51,11 @@ Notice the promo code section which is available on every 3rd order (PROMO CODE:
 
 ![Screenshot_20230218_123413](https://user-images.githubusercontent.com/65112018/219847980-23070d0f-88ac-4dfa-b6c5-46a7c953615d.png)
 
-# Success Page:
+### Success Page:
 
 ![Screenshot_20230218_114108](https://user-images.githubusercontent.com/65112018/219848021-e87f645f-b408-4284-8d75-6d7af9faa6c3.png)
  
-# Tracking payments via Stripe.com
+### Tracking payments via Stripe.com
 
 ![Screenshot_20230218_114246](https://user-images.githubusercontent.com/65112018/219848005-4372216b-1073-4c8a-9bf6-5adb23508044.png)
 
